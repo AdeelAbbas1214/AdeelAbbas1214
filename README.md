@@ -5,6 +5,7 @@
     <img alt="DEVOPS" width="400" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
 </div>
 # 💫 About Me:
+
 🔭 I’m currently working on Jenkins<br>🌱 I’m currently learning Asterisk PBX, AWS, Linux<br>📝 I write articles on Community.aws<br>💬 Ask me about DevOps, AWS, Linux<br>📫 How to reach me: adeelabbasad@gmail.com<br>
 
 
